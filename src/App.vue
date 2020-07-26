@@ -32,7 +32,7 @@
           <img id="pins" class="is-vcentered" src="../public/bppinslogo.png" alt="baking power pins logo" width="200">
           <img id="name" src="../public/bakingpowerlogo.png" alt="baking power logo">
           <h1 class="title hero1-title">I'm Nikki Petersen and I've got Baking Power!</h1>
-            <p class="hero1-p is-size-2">This is a website for my bakery, where I make cakes and bread and cupcakes and cookies and so many
+            <p class="hero1-p is-size-3">This is a mockup website for my bakery, where I make cakes and bread and cupcakes and cookies and so many
             other yummy things. I like to bake sweet things but also have enjoyed making bread since we've all been
             in lock down during the Covid pandemic.</p>
         </div>
@@ -82,9 +82,17 @@
     <section id="hero4" class="hero is-large" >
       <div class="hero-body">
         <div class="container">
-          <h1 class="title"> Hero #4</h1>
-          <h3 class="subtitle">This contact form isn't hooked up, so you're welcome to reach out, but just
-          know that I won't be getting the info. Thanks!</h3>
+          <h1 class="title"> Contact</h1>
+
+          <div class="columns is-vcentered"  width="500">
+            <div class="column"></div>
+            <div class="column is-one-third">
+              <p class="subtitle">This contact form isn't hooked up because this is a mockup website,
+                so you're welcome to reach out, but just know that I won't be getting the info. Thanks!</p>
+            </div>
+            <div class="column"></div>
+          </div>
+
           <div class="columns is-vcentered"  width="500">
             <div class="column"></div>
             <div class="column is-one-third">
